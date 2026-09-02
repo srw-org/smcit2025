@@ -1,0 +1,267 @@
+{
+  "spacerobotics2025": {
+    "organizers": [
+      {
+        "challenge": false,
+        "imageId": "ignacioGLopezFrancos",
+        "name": "Ignacio G. López-Francos",
+        "oc": true,
+        "organization": "NASA Ames",
+        "sc": false,
+        "site": "https://www.linkedin.com/in/ilopezfrancos/"
+      },
+      {
+        "challenge": false,
+        "imageId": "roshanKalghatgi",
+        "name": "Roshan Kalghatgi",
+        "oc": true,
+        "organization": "NASA Ames",
+        "sc": false,
+        "site": "https://www.linkedin.com/in/roshankalghatgi/"
+      },
+      {
+        "challenge": false,
+        "imageId": "brianColtin",
+        "name": "Brian Coltin",
+        "oc": true,
+        "organization": "NASA Ames",
+        "sc": false,
+        "site": "https://brian.coltin.org/"
+      },
+      {
+        "challenge": false,
+        "imageId": "alexSowell",
+        "name": "Alex Sowell",
+        "oc": true,
+        "organization": "NASA JSC",
+        "sc": false,
+        "site": "https://www.linkedin.com/in/samuel-alex-sowell-07695671/"
+      },
+      {
+        "challenge": false,
+        "imageId": "robRoyce",
+        "name": "Rob Royce",
+        "oc": true,
+        "organization": "NASA JPL",
+        "sc": false,
+        "site": "https://www.linkedin.com/in/robroyce/"
+      },
+      {
+        "challenge": false,
+        "imageId": "marcelKaufmann",
+        "name": "Marcel Kaufmann",
+        "oc": true,
+        "organization": "NASA JPL",
+        "sc": false,
+        "site": "https://www.linkedin.com/in/kaufmann-space"
+      },
+      {
+        "challenge": false,
+        "imageId": "kuldeepRambhai",
+        "name": "Kuldeep Rambhai",
+        "oc": true,
+        "organization": "Redwire",
+        "sc": false,
+        "site": "https://www.linkedin.com/in/kuldeepbarad/"
+      },
+      {
+        "challenge": false,
+        "imageId": "ricardMarsal",
+        "name": "Ricard Marsal I Castan",
+        "oc": true,
+        "organization": "University of Luxembourg",
+        "sc": false,
+        "site": "https://www.linkedin.com/in/ricard-marsal-44ba63155/"
+      },
+      {
+        "challenge": false,
+        "imageId": "maggieWang",
+        "name": "Maggie Wang",
+        "oc": true,
+        "organization": "Stanford University",
+        "sc": false,
+        "site": "https://www.linkedin.com/in/maggie-wang/"
+      },
+      {
+        "challenge": false,
+        "imageId": "edwardBalaban",
+        "name": "Edward Balaban",
+        "oc": false,
+        "organization": "NASA ARC",
+        "sc": true,
+        "site": ""
+      },
+      {
+        "challenge": false,
+        "imageId": "jenniferBlank",
+        "name": "Jennifer Blank",
+        "oc": false,
+        "organization": "Blue Marble Space Institute of Science",
+        "sc": true,
+        "site": ""
+      },
+      {
+        "challenge": false,
+        "imageId": "giuseppeCataldo",
+        "name": "Giuseppe Cataldo",
+        "oc": false,
+        "organization": "NASA GSFC",
+        "sc": true,
+        "site": ""
+      },
+      {
+        "challenge": false,
+        "imageId": "jeanPierreDeLaCroix",
+        "name": "Jean-Pierre de la Croix",
+        "oc": false,
+        "organization": "NASA JPL",
+        "sc": true,
+        "site": ""
+      },
+      {
+        "challenge": false,
+        "imageId": "animeshGarg",
+        "name": "Animesh Garg",
+        "oc": false,
+        "organization": "Georgia Tech, NVIDIA, Apptronik",
+        "sc": true,
+        "site": ""
+      },
+      {
+        "challenge": false,
+        "imageId": "keerthanaGopalakrishnan",
+        "name": "Keerthana Gopalakrishnan",
+        "oc": false,
+        "organization": "Google DeepMind",
+        "sc": true,
+        "site": ""
+      },
+      {
+        "challenge": false,
+        "imageId": "jenniferHeldmann",
+        "name": "Jennifer Heldmann",
+        "oc": false,
+        "organization": "NASA ARC",
+        "sc": true,
+        "site": ""
+      },
+      {
+        "challenge": false,
+        "imageId": "pyojinKim",
+        "name": "Pyojin Kim",
+        "oc": false,
+        "organization": "Gwangju Institute of Science and Technology (GIST)",
+        "sc": true,
+        "site": ""
+      },
+      {
+        "challenge": false,
+        "imageId": "jonathanKnowles",
+        "name": "Jonathan Knowles",
+        "oc": false,
+        "organization": "Former Autodesk, Apple, Adobe",
+        "sc": true,
+        "site": ""
+      },
+      {
+        "challenge": false,
+        "imageId": "robertoLampariello",
+        "name": "Roberto Lampariello",
+        "oc": false,
+        "organization": "DLR (German Aerospace Center)",
+        "sc": true,
+        "site": ""
+      },
+      {
+        "challenge": false,
+        "imageId": "alisonLowndes",
+        "name": "Alison Lowndes",
+        "oc": false,
+        "organization": "NVIDIA",
+        "sc": true,
+        "site": ""
+      },
+      {
+        "challenge": false,
+        "imageId": "luisMerino",
+        "name": "Luis Merino",
+        "oc": false,
+        "organization": "Universidad Pablo de Olavide",
+        "sc": true,
+        "site": ""
+      },
+      {
+        "challenge": false,
+        "imageId": "hiroOno",
+        "name": "Hiro Ono",
+        "oc": false,
+        "organization": "NASA JPL",
+        "sc": true,
+        "site": ""
+      },
+      {
+        "challenge": false,
+        "imageId": "katherineScott",
+        "name": "Katherine Scott",
+        "oc": false,
+        "organization": "Intrinsic, Open Robotics",
+        "sc": true,
+        "site": ""
+      },
+      {
+        "challenge": false,
+        "imageId": "luisSentis",
+        "name": "Luis Sentis",
+        "oc": false,
+        "organization": "University of Texas at Austin, Apptronik",
+        "sc": true,
+        "site": ""
+      },
+      {
+        "challenge": false,
+        "imageId": "treySmith",
+        "name": "Trey Smith",
+        "oc": false,
+        "organization": "NASA ARC",
+        "sc": true,
+        "site": ""
+      },
+      {
+        "challenge": false,
+        "imageId": "jonathanStock",
+        "name": "Jonathan Stock",
+        "oc": false,
+        "organization": "NASA ARC",
+        "sc": true,
+        "site": ""
+      },
+      {
+        "challenge": false,
+        "imageId": "kentaroUno",
+        "name": "Kentaro Uno",
+        "oc": false,
+        "organization": "Tohoku University",
+        "sc": true,
+        "site": ""
+      },
+      {
+        "challenge": false,
+        "imageId": "rodrigoVentura",
+        "name": "Rodrigo Ventura",
+        "oc": false,
+        "organization": "Instituto Superior Técnico (IST), University of Lisbon",
+        "sc": true,
+        "site": ""
+      },
+      {
+        "challenge": false,
+        "imageId": "andyHock",
+        "name": "Andy Hock",
+        "oc": false,
+        "organization": "Cerebras",
+        "sc": true,
+        "site": ""
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "buildCommand": "yarn build",
+  "outputDirectory": "public",
+  "framework": null,
+  "redirects": [
+    {
+      "source": "/",
+      "destination": "/events/smcit2025/",
+      "permanent": false
+    }
+  ],
+  "rewrites": [
+    {
+      "source": "/images/:path*",
+      "destination": "/events/smcit2025/images/:path*"
+    }
+  ]
+}
